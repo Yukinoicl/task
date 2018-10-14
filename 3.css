@@ -1,0 +1,28 @@
+.h1 {
+    background-color:grey;
+    border:solid grey;
+}
+
+.p {
+    background:green;
+    float:left;
+    border:solid green;
+}
+
+.p2 {
+    background: red;
+    border:solid red;
+    float:left;
+}
+
+.p3 {
+    background: pink;
+    float:left;
+    clear:right;
+    border:solid pink;
+}
+
+.footer {
+    background:yellow;
+    clear: both;
+}
